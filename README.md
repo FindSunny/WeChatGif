@@ -2,7 +2,8 @@
 做一套微信表情专辑 - 象素人
 
 ## 使用工具：
-   ### PIXLR: https://pixlr.com/
-   - online： https://vectr.com/new
+   ### PIXLR: Make every moment beautiful with our family of photo editing apps.
+      https://pixlr.com/
+      - online： https://vectr.com/new
    ### PS online:
-   - https://www.photoshop.com/tools
+      - online： https://www.photoshop.com/tools
