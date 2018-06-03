@@ -1,5 +1,5 @@
 # WeChatGif
-做一套微信表情专辑 - 像素人
+做一套微信表情专辑 - 象素人
 
 ## 使用工具：
    ### PIXLR: https://pixlr.com/
